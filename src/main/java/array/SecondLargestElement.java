@@ -45,7 +45,7 @@ public class SecondLargestElement {
         int second_small = Integer.MAX_VALUE;
         int i;
         for (i = 0; i < n; i++) {
-            if (arr[i] < small) {
+            if (arr[i] < small) { // {3, 2 ,1,4,5}
                 second_small = small;
                 small = arr[i];
             } else if (arr[i] < second_small && arr[i] != small) {
@@ -73,4 +73,13 @@ public class SecondLargestElement {
     }
 
 }
+
+
+// Leaders in the array
+// Move Zero to the end
+// Sliding window -> Fixed sliding window
+// reverse array - easy - shirish
+// Searching at index, end of index
+// Insertion
+// Deletion
 
