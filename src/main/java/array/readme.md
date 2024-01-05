@@ -24,9 +24,9 @@
 
 ○ Frequencies in Sorted Array
 
-○ Stock Buy and Sell Problem
+○ Stock Buy and Sell Problem - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-○ Trapping Rainwater Problem
+○ Trapping Rainwater Problem - https://leetcode.com/problems/trapping-rain-water/ 
 
 ○ Maximum Consecutive 1s
 
